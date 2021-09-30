@@ -1,0 +1,2 @@
+# Website-with-Database-Management-for-users-data
+This is the Final Project for my Database and Web Programming exam in 2018. It is a website (back-end and front-end) where registered users can create business cards, register to meetings, send invitations and so on. The used programming languages are: HTML, CSS, JavaScript, AJAX and PHP. The users' data and information are included in a MySQL Database. The style was created via Bootstrap and JQuery.
